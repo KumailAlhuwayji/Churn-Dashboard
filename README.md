@@ -1,4 +1,4 @@
-# Customer Churn Dashboard
+# Churn Dashboard
 
 This project is part of **PwC’s Power BI Job Simulation** program. It features a Power BI dashboard that displays key performance indicators (KPIs) and metrics related to customer churn, along with key insights drawn from the data.
 
