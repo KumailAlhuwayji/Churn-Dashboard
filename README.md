@@ -1,17 +1,32 @@
-# Churn Dashboard
-
-This project is part of **PwC’s Power BI Job Simulation** program. It features a Power BI dashboard that displays key performance indicators (KPIs) and metrics related to customer churn, along with key insights drawn from the data.
+# Customer Churn Dashboard
 
 ## Overview
+This project was part of the **PwC Power BI Job Simulation** on Forage.  
+The objective was to analyze customer churn data and create a dashboard that supports data-driven decision-making for retention strategies.
 
-The dashboard was developed to analyze customer churn, identify high-risk segments, and highlight factors contributing to churn, providing valuable insights for improving customer retention.
+## Objectives
+- Explore and understand customer churn behavior  
+- Identify key drivers of churn  
+- Visualize insights to help improve retention efforts
+
+## Steps Taken
+1. **Data Cleaning & Preparation**  
+   - Cleaned dataset using **Power Query**  
+   - Performed **data validation** to ensure accuracy  
+
+2. **Data Modeling & Calculations**  
+   - Created **DAX measures** and **calculated columns** for churn rate and other KPIs  
+   - Structured data model for interactivity and insights  
+
+3. **Visualization**  
+   - Designed an interactive dashboard highlighting churn patterns, customer demographics, and behavior  
+   - Added slicers for segmentation analysis  
+
+## Tools Used
+- Power BI  
+- Power Query  
+- DAX
 
 ## Key Insights
-
-- **83% of customers** are senior citizens.
-- **Gender distribution** is equal: 50% male and 50% female.
-- **Churn rate**: 1,869 customers have churned out of 7,043 total customers (26.5%).
-- **Immediate churn**: 380 customers left last month.
-- **Total revenue loss**: $2.9M.
-- **Online Backup service**: Most churned customers lack this service.
-- **Internet services**: Fiber Optics generates the highest revenue.
+- Identified customer segments with the highest churn rates  
+- Provided actionable insights for improving retention  
